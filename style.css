@@ -8,7 +8,7 @@ main
 {
     height: 700px;  
     width:100% ;
-    background-image: url(/image-asset.jpeg);
+    background-image: url(image-asset.jpeg);
     background-size: cover;
 }
 .spc{ 
